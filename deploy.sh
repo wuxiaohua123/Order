@@ -1,8 +1,8 @@
-# 使用Shell：编译 + 部署order站点
+#### 使用Shell：编译 + 部署order站点 ####
 
 #!/usr/bin/env bash
 
-# Jenkins任务构建语句----需要配置如下参数
+# Jenkins任务----需要配置如下参数
 # 1.项目路径, 在Execute Shell中配置项目路径, pwd 就可以获得该项目路径
 # export PROJ_PATH=这个jenkins任务在部署机器上的路径
 # 2.输入你的环境上tomcat的全路径
