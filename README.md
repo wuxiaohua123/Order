@@ -1,3 +1,4 @@
+## 吴小华修改
 **应用部署小程序，练习用**
 
 1. 运行sql(order/src/main/sql/order.sql)语句，配置数据库;
